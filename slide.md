@@ -1,4 +1,4 @@
-% Sample Slide
+% Sample Slide with Plain
 % bakedroy
 % \today
 
